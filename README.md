@@ -1,5 +1,4 @@
-Live at cocktail-searcher.netlify.app
-
+Live at https://cocktail-searcher.netlify.app/
 
 
 
